@@ -11,7 +11,7 @@ export default defineConfig({
   //设置项目根目录
   base: './',
   server: {
-    port: 666
+    port: 5001
   },
   plugins: [
       vue(
